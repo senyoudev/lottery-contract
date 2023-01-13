@@ -1,0 +1,3 @@
+deployments
+yarn hardhat deploy -all
+yarn hardhat deployments
